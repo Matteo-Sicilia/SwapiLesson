@@ -1,0 +1,14 @@
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\obj\Debug\net8.0\HttpClientLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\obj\Debug\net8.0\HttpClientLesson.AssemblyInfoInputs.cache
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\obj\Debug\net8.0\HttpClientLesson.AssemblyInfo.cs
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\obj\Debug\net8.0\HttpClientLesson.csproj.CoreCompileInputs.cache
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\bin\Debug\net8.0\HttpClientLesson.exe
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\bin\Debug\net8.0\HttpClientLesson.deps.json
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\bin\Debug\net8.0\HttpClientLesson.runtimeconfig.json
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\bin\Debug\net8.0\HttpClientLesson.dll
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\bin\Debug\net8.0\HttpClientLesson.pdb
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\obj\Debug\net8.0\HttpClientLesson.dll
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\obj\Debug\net8.0\refint\HttpClientLesson.dll
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\obj\Debug\net8.0\HttpClientLesson.pdb
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\obj\Debug\net8.0\HttpClientLesson.genruntimeconfig.cache
+C:\Users\ITS-1046\RiderProjects\HttpClientLesson\HttpClientLesson\obj\Debug\net8.0\ref\HttpClientLesson.dll
